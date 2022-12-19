@@ -1,7 +1,13 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
+## This blog is created by Hrithik Joshi
+
+### Hello Everyone
+
+## Blog 1
 
 ### Hello Guys. This blog created by Hrithik Joshi
 
